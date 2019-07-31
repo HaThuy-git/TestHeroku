@@ -6,7 +6,7 @@
 <body>
      <?php 
      echo "Xin Chao"
-     <img src="anh/anh1.jpg">
+    
 
      ?>
       
