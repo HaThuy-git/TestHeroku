@@ -6,7 +6,7 @@
 <body>
      <?php 
      echo "Xin Chao"
-    <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+     <img src="TestHeroku/anh1.jpg"></img>
      ?>
 
      
