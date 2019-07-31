@@ -5,8 +5,12 @@
 </head>
 <body>
      <?php 
-     echo "hello helo 3000000000000!"
+     echo "Xin Chao"
+     <img src="anh/anh1.jpg">
 
-      ?>
+     ?>
+      
+      	
+
 </body>
 </html>
