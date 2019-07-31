@@ -6,8 +6,7 @@
 <body>
      <?php 
      echo "Xin Chao"
-    
-
+     <img src="displayImg.php?url=http://thuthuatweb.net/images/image.jpg" />
      ?>
       
       	
