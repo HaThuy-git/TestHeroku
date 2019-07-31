@@ -8,7 +8,7 @@
      echo "Xin Chao"
      ?>
 
-     <img src="Github/anh1.jpg">;
+     <img src="TestHeroku/anh1.jpg"></img>
       
       	
 
